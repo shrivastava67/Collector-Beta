@@ -67,7 +67,7 @@ cd log-aggregator-desktop
 Install the required Python dependencies.
 pip install -r requirements.txt
 ***********************************************************************************************************************************************************************
-Usage
+## Usage
 Launch the application on your desktop.
 
 Configure the application settings including log sources, collection methods, and API endpoint details.
@@ -84,7 +84,7 @@ API endpoint details for log submission.
 Logging and monitoring options.
 A sample configuration file (config.example.yaml) is provided. Copy and modify it according to your needs.
 
-Contributing
+## Contributing
 Contributions to this project are welcome! If you would like to contribute, please follow these steps:
 
 Fork the repository.
@@ -93,7 +93,7 @@ Make your changes and test them.
 Commit your changes and create a pull request.
 Please review our Contribution Guidelines for more details.
 
-License
+##License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 Make sure to replace placeholders like `yourusername` with your actual GitHub username, and consider adding more specific instructions and details based on the requirements and complexity of your project. Additionally, include any necessary documentation for your API endpoints and server setup in separate documents or sections of your project repository.
