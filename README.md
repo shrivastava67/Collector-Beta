@@ -6,6 +6,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Perks for Contributors](#perks-for-contributors)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
