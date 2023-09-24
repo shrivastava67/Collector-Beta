@@ -37,7 +37,7 @@ We greatly appreciate contributions to this project, and to show our gratitude, 
 
 Contributors who reach the maximum level of contributions (e.g., through substantial code contributions, bug fixes, or extensive documentation) will receive the following exclusive perk:
 
-- **Lifetime License for 100 Devices:** You will be granted a lifetime license for using this Log Aggregator Desktop Application on up to 100 devices, free of charge. This means you can monitor logs from a substantial number of devices without any licensing costs.
+**Lifetime License for 100 Devices:** You will be granted a lifetime license for using this Log Aggregator Desktop Application on up to 100 devices, free of charge. This means you can monitor logs from a substantial number of devices without any licensing costs.
 
 To become eligible for this perk, please refer to our [Contributing Guidelines](CONTRIBUTING.md) for details on how to contribute effectively to the project.
 
